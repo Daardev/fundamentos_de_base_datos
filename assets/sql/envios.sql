@@ -1,6 +1,3 @@
-
--- ENVÍOS - DDL
-
 CREATE TABLE cliente (
   id_cliente SERIAL PRIMARY KEY,
   nombre VARCHAR(100) NOT NULL,

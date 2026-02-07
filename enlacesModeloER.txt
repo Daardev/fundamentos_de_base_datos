@@ -1,0 +1,3 @@
+
+pages
+https://daardev.github.io/fundamentos_de_base_datos/assets/pages/modeladoER-normalizacion.html
