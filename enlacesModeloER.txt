@@ -1,3 +1,6 @@
-
+Query
+Envíos: https://github.com/Daardev/fundamentos_de_base_datos/blob/main/assets/sql/envios.sql
+Retail: https://github.com/Daardev/fundamentos_de_base_datos/blob/main/assets/sql/retail.sql
+cuentas: https://github.com/Daardev/fundamentos_de_base_datos/blob/main/assets/sql/cuentas.sql
 pages
 https://daardev.github.io/fundamentos_de_base_datos/assets/pages/modeladoER-normalizacion.html
